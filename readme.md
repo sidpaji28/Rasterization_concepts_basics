@@ -1,0 +1,1 @@
+#used 3djs for rasterization , basic concepts were cleared and a cube is being rasterized , rasterization is the basic connecting of multiple triangles.
